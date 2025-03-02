@@ -1,0 +1,12 @@
+model:
+  name: "Hermes-3-Llama-3.2-3B"
+  device: "cuda"
+  debug_mode: false
+
+security:
+  memory_protection: true
+  debug_logging: false
+
+logging:
+  level: "INFO"
+  file: "logs/prod.log"

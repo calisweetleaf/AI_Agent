@@ -1,0 +1,27 @@
+# VS Code
+.vs/
+*.vsix
+.vscode/
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build outputs
+dist/
+build/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Database files
+*.db
+
+# Operating System
+.DS_Store
+Thumbs.db

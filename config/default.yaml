@@ -1,0 +1,10 @@
+app:
+  name: AI_Agent
+  version: 1.0.0
+
+security:
+  enable_memory_protection: true
+  enable_metrics: true
+
+model:
+  path: ./models/modelfile.txt
