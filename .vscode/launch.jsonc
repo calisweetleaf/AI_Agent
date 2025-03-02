@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: AI Agent",
+            "type": "python",
+            "request": "launch",
+            "program": "src/orchestrator.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}

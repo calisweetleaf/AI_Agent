@@ -1,0 +1,12 @@
+[
+    {
+        "key": "ctrl+f5",
+        "command": "workbench.action.debug.run",
+        "args": "AI Agent - Development"
+    },
+    {
+        "key": "ctrl+shift+f5",
+        "command": "workbench.action.debug.run",
+        "args": "AI Agent - Production"
+    }
+]
